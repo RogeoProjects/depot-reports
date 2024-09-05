@@ -1,0 +1,10 @@
+{
+  "title": "Simple Pie",
+  "runtime": "static",
+  "tags": [
+    "ag-grid",
+    "ag-charts",
+    "example"
+  ],
+  "published": false
+}
