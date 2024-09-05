@@ -31,7 +31,7 @@ const options = {
       tooltip: {
         renderer: ({ datum, angleKey, calloutLabelKey = "ingredient" }) => ({
           title: `${datum[calloutLabelKey]}`,
-          content: `${datum[angleKey]}g`,
+          content: `${datum[angleKey]}€`,
         }),
       },
       title: {
