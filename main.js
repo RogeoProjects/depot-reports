@@ -5,7 +5,7 @@ const numFormatter = new Intl.NumberFormat("en-US");
 const options = {
   container: document.getElementById("myChart"),
   title: {
-    text: "GROSS INCOMES = €15.899",
+    text: "GROSS INCOMES = €17.540,50",
   },
   subtitle: {
     text: "September",
