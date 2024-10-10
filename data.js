@@ -8,8 +8,8 @@ function getData() {
     { ingredient: "IWT", weight: 990 },
     { ingredient: "BLS", weight: 324 },
     { ingredient: "SCHMIDT", weight: 980 },
-    { ingredient: "REEFER", weight: 869 },
-    { ingredient: "QF", weight: 375 },
+    { ingredient: "REEFER", weight: 869 },    
     { ingredient: "R TOLAND", weight: 252 },
+    { ingredient: "QF", weight: 375 },
   ];
 }

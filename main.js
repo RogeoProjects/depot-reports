@@ -5,13 +5,13 @@ const numFormatter = new Intl.NumberFormat("en-US");
 const options = {
   container: document.getElementById("myChart"),
   title: {
-    text: "GROSS INCOMES = ",
+    text: "GROSS INCOMES = €15.899",
   },
   subtitle: {
     text: "September",
   },
   footnote: {
-    text: "INCOMES TOTAL: €21.200 ",
+    text: "INCOMES TOTAL: €15.899 ",
   },
   series: [
     {
