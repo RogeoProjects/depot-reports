@@ -5,10 +5,10 @@ const numFormatter = new Intl.NumberFormat("en-US");
 const options = {
   container: document.getElementById("myChart"),
   title: {
-    text: "DEPOT REPORT",
+    text: "GROSS INCOMES = ",
   },
   subtitle: {
-    text: "August",
+    text: "September",
   },
   footnote: {
     text: "INCOMES TOTAL: €21.200 ",
